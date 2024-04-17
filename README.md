@@ -41,8 +41,8 @@ Monitor the system regularly to ensure proper functioning of the hardware and so
 - Update the system as needed to add new features or improve 
 performance.
 ## applications:
-- 1.	Home Automation:
-- Monitor indoor temperature and humidity levels to ensure comfort and well-being.
+ 1.	Home Automation:
+ Monitor indoor temperature and humidity levels to ensure comfort and well-being.
 Automatically control heating, ventilation, and air conditioning (HVAC) systems based on environmental conditions.
 Detect and prevent issues such as mold growth or excess humidity in basements and bathrooms.
 2.	Greenhouse Monitoring:
