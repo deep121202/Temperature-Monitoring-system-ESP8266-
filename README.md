@@ -15,14 +15,14 @@ The DHT11 sensor is a basic and inexpensive digital temperature and humidity sen
 - Relatively Simple to Use: The DHT11 sensor is relatively simple to use, especially when compared to more advanced sensors with additional features and capabilities. It typically requires minimal external components and can be connected directly to a microcontroller without the need for additional circuitry.
 - Operating Voltage: The DHT11 sensor operates at a voltage range of 3.3V to 5V, making it compatible with a wide range of microcontroller platforms.
 
-# Working of Temperature and Humidity Monitoring System using ESP8266 and DHT11:
+## Working of Temperature and Humidity Monitoring System using ESP8266 and DHT11:
 
-A Temperature and Humidity Monitoring System using ESP8266 and DHT11 involves integrating the ESP8266 microcontroller board with the DHT11 sensor to measure temperature and humidity levels. The ESP8266 is a low-cost Wi-Fi microcontroller with built-in Wi-Fi capability, making it suitable for IoT (Internet of Things) applications. The DHT11 sensor is a basic digital sensor capable of measuring temperature and humidity.
+- A Temperature and Humidity Monitoring System using ESP8266 and DHT11 involves integrating the ESP8266 microcontroller board with the DHT11 sensor to measure temperature and humidity levels. The ESP8266 is a low-cost Wi-Fi microcontroller with built-in Wi-Fi capability, making it suitable for IoT (Internet of Things) applications. The DHT11 sensor is a basic digital sensor capable of measuring temperature and humidity.
 - Hardware Setup:
 Connect the DHT11 sensor to the ESP8266 microcontroller board. The DHT11 sensor typically has three pins: VCC, data, and ground. Connect VCC to a 3.3V or 5V pin on the ESP8266 (check the specifications of your specific board), connect ground to a ground pin, and connect the data pin to any GPIO pin on the ESP8266 (e.g., GPIO2).
 Power up the ESP8266 board.
-Programming the ESP8266:
-Write code to read data from the DHT11 sensor using the GPIO pin connected to the data pin of the sensor.
+- Programming the ESP8266:
+-- Write code to read data from the DHT11 sensor using the GPIO pin connected to the data pin of the sensor.
 Use the ESP8266's Wi-Fi capabilities to establish a connection to your local Wi-Fi network.
 Implement code to send the temperature and humidity data to a server or cloud platform. You can use protocols like MQTT, HTTP, or TCP/IP for communication.
 Optionally, implement error handling and data formatting to ensure reliable data transmission.
