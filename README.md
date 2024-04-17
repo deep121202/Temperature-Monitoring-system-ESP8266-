@@ -1,4 +1,4 @@
-# Temperature-Monitoring-system-ESP8266-dht11Sensor
+# Temperature and Humidity MOnitoring System Using ThingSpeak
 ## ESP8266:
 The ESP8266 is a highly popular and versatile microcontroller module designed for Internet of Things (IoT) applications. It's known for its low cost, low power consumption, and built-in Wi-Fi connectivity, making it an ideal choice for projects requiring wireless communication and remote control capabilities. Here are some key features and characteristics of the ESP8266:
 - Wi-Fi Connectivity: One of the standout features of the ESP8266 is its integrated Wi-Fi module, which allows it to connect to Wi-Fi networks and communicate over the internet. This capability enables remote monitoring, control, and data transmission for IoT applications.
