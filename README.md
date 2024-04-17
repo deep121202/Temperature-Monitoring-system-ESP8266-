@@ -1,7 +1,7 @@
 # Temperature-Monitoring-system-ESP8266-dht11Sensor
 ## ESP8266:
 The ESP8266 is a highly popular and versatile microcontroller module designed for Internet of Things (IoT) applications. It's known for its low cost, low power consumption, and built-in Wi-Fi connectivity, making it an ideal choice for projects requiring wireless communication and remote control capabilities. Here are some key features and characteristics of the ESP8266:
-Wi-Fi Connectivity: One of the standout features of the ESP8266 is its integrated Wi-Fi module, which allows it to connect to Wi-Fi networks and communicate over the internet. This capability enables remote monitoring, control, and data transmission for IoT applications.
+- Wi-Fi Connectivity: One of the standout features of the ESP8266 is its integrated Wi-Fi module, which allows it to connect to Wi-Fi networks and communicate over the internet. This capability enables remote monitoring, control, and data transmission for IoT applications.
 Microcontroller Core: The ESP8266 is powered by a 32-bit Tensilica Xtensa LX106 microcontroller core, which provides sufficient processing power for a wide range of IoT tasks.
 GPIO Pins: The ESP8266 module typically comes with several general-purpose input/output (GPIO) pins that can be used to interface with sensors, actuators, and other peripheral devices. These pins can be configured for digital input/output, analog input, PWM output, and more.
 Flash Memory: The ESP8266 includes built-in flash memory for program storage. Depending on the specific variant, it may have anywhere from a few hundred kilobytes to several megabytes of flash memory available for storing firmware, configuration data, and other files.
