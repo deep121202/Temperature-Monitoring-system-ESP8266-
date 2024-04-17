@@ -21,22 +21,22 @@ The DHT11 sensor is a basic and inexpensive digital temperature and humidity sen
 - Hardware Setup:
 Connect the DHT11 sensor to the ESP8266 microcontroller board. The DHT11 sensor typically has three pins: VCC, data, and ground. Connect VCC to a 3.3V or 5V pin on the ESP8266 (check the specifications of your specific board), connect ground to a ground pin, and connect the data pin to any GPIO pin on the ESP8266 (e.g., GPIO2).
 Power up the ESP8266 board.
-#### Programming the ESP8266:
- Write code to read data from the DHT11 sensor using the GPIO pin connected to the data pin of the sensor.
-Use the ESP8266's Wi-Fi capabilities to establish a connection to your local Wi-Fi network.
-Implement code to send the temperature and humidity data to a server or cloud platform. You can use protocols like MQTT, HTTP, or TCP/IP for communication.
-Optionally, implement error handling and data formatting to ensure reliable data transmission.
-Data Transmission:
+### Programming the ESP8266:
+ - Write code to read data from the DHT11 sensor using the GPIO pin connected to the data pin of the sensor.
+- Use the ESP8266's Wi-Fi capabilities to establish a connection to your local Wi-Fi network.
+- Implement code to send the temperature and humidity data to a server or cloud platform. You can use protocols like MQTT, HTTP, or TCP/IP for communication.
+- Optionally, implement error handling and data formatting to ensure reliable data transmission.
+- Data Transmission:
 Once the ESP8266 is programmed and connected to Wi-Fi, it will start reading temperature and humidity data from the DHT11 sensor at regular intervals.
-The ESP8266 will then transmit this data to the designated server or cloud platform over the Wi-Fi network.
-Depending on your implementation, you may choose to transmit data continuously or trigger transmissions based on predefined conditions.
+- The ESP8266 will then transmit this data to the designated server or cloud platform over the Wi-Fi network.
+- Depending on your implementation, you may choose to transmit data continuously or trigger transmissions based on predefined conditions.
 Data Processing and Visualization:
-On the server or cloud platform, receive and process the incoming temperature and humidity data.
-Store the data in a database for historical analysis and visualization.
-Implement a user interface Thingspeak to display real-time and historical temperature and humidity data in a human-readable format.
-Optionally, set up alerts or notifications to notify users of critical temperature or humidity conditions.
-Monitoring and Maintenance:
+- On the server or cloud platform, receive and process the incoming temperature and humidity data.
+- Store the data in a database for historical analysis and visualization.
+- Implement a user interface Thingspeak to display real-time and historical temperature and humidity data in a human-readable format.
+- Optionally, set up alerts or notifications to notify users of critical temperature or humidity conditions.
+- Monitoring and Maintenance:
 Monitor the system regularly to ensure proper functioning of the hardware and software components.
-Address any issues that arise, such as connectivity problems or sensor failures.
-Update the system as needed to add new features or improve 
+- Address any issues that arise, such as connectivity problems or sensor failures.
+- Update the system as needed to add new features or improve 
 performance.
