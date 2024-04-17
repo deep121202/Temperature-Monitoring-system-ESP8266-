@@ -1,5 +1,5 @@
 # Temperature-Monitoring-system-ESP8266-dht11Sensor
-# ESP8266:
+## ESP8266:
 The ESP8266 is a highly popular and versatile microcontroller module designed for Internet of Things (IoT) applications. It's known for its low cost, low power consumption, and built-in Wi-Fi connectivity, making it an ideal choice for projects requiring wireless communication and remote control capabilities. Here are some key features and characteristics of the ESP8266:
 Wi-Fi Connectivity: One of the standout features of the ESP8266 is its integrated Wi-Fi module, which allows it to connect to Wi-Fi networks and communicate over the internet. This capability enables remote monitoring, control, and data transmission for IoT applications.
 Microcontroller Core: The ESP8266 is powered by a 32-bit Tensilica Xtensa LX106 microcontroller core, which provides sufficient processing power for a wide range of IoT tasks.
@@ -7,7 +7,7 @@ GPIO Pins: The ESP8266 module typically comes with several general-purpose input
 Flash Memory: The ESP8266 includes built-in flash memory for program storage. Depending on the specific variant, it may have anywhere from a few hundred kilobytes to several megabytes of flash memory available for storing firmware, configuration data, and other files.
 Development Environment: The ESP8266 can be programmed using a variety of development environments, including the Arduino IDE, Espressif's official ESP-IDF (IoT Development Framework), and other third-party tools and libraries. This flexibility makes it accessible to both beginners and experienced developers.
 Low Power Consumption: Despite its powerful features, the ESP8266 is designed to operate with low power consumption, making it suitable for battery-powered or energy-efficient applications.
-# DHT11 Sensor:
+## DHT11 Sensor:
 The DHT11 sensor is a basic and inexpensive digital temperature and humidity sensor commonly used in electronics projects, particularly in the realm of Arduino and other microcontroller-based projects. Here are some key features and characteristics of the DHT11 sensor:
 Temperature and Humidity Sensing: The primary function of the DHT11 sensor is to measure both temperature and humidity levels in the surrounding environment. It can provide temperature readings with an accuracy of ±2°C and humidity readings with an accuracy of ±5%.
 Digital Output: The DHT11 sensor communicates with microcontrollers using a digital protocol, making it easy to interface with popular platforms like Arduino. It sends data as a serial signal, which can be read by the microcontroller to obtain temperature and humidity values.
