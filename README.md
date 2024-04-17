@@ -40,7 +40,7 @@ Monitor the system regularly to ensure proper functioning of the hardware and so
 - Address any issues that arise, such as connectivity problems or sensor failures.
 - Update the system as needed to add new features or improve 
 performance.
-## applications:
+## Applications:
  1.	Home Automation:
  Monitor indoor temperature and humidity levels to ensure comfort and well-being.
 Automatically control heating, ventilation, and air conditioning (HVAC) systems based on environmental conditions.
